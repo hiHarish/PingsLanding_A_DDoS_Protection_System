@@ -12,7 +12,7 @@
 # This file will automatically load configuration files provided by other
 # applications, such as Drupal or Wordpress. These applications will be made
 # available underneath a path with that package name, such as /drupal8.
-#
+# 
 # Please see /usr/share/doc/nginx-doc/examples/ for more detailed examples.
 ##
 
